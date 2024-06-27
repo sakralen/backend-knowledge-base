@@ -241,7 +241,7 @@ db.hosts=localhost
 ```
 
 ## 12. BeanFactoryPostProcessor
-В жизненном цикле бинов находится до **Sorted Bean Difnitions**.
+В жизненном цикле бинов находится до **Sorted Bean Definitions**.
 
 - Устанавливает переменные окружения;
 - Подставляет значения expression language.
